@@ -163,3 +163,39 @@ button {
   font-size: 18px;
   align-self: end;
 }
+
+/* Section four */
+.section-four {
+  background-color: white;
+  padding: 100px 200px;
+}
+
+.action-box {
+  background-color: #3882F6;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 100px;
+  border-radius: 8px;
+}
+
+.action-maintext {
+  color: #E5E7EB;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.action-subtext {
+  color: #E5E7EB;
+  font-size: 14px;
+}
+
+.action-signup {
+  border: 2px solid white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 8px;
+  color: #E5E7EB;
+  font-weight: 900;
+}
